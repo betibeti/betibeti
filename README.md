@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Betul (B.K) Kocyigit</h1>
+<h1 align="center">Hi 👋, I'm Betul Kocyigit</h1>
 <h3 align="center">A passionate Full-Stack Software QA Engineer</h3>
 <img align="right" alt="Coding" width="400" src=https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
