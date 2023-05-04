@@ -4,18 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erenkocyigit&label=Profile%20views&color=0e75b6&style=flat" alt="erenkocyigit" /> </p>
 
-- 🌱 I’m currently learning *Cypress, JavaScript, TypeScript*
-
 - 💬 Ask me about *Java, Selenium, Cucumber, Oracle SQL Developer, Postman*
 
-- 📫 How to reach me *m.erenkocyigit@gmail.com*
-
-- ⚡ Fun fact *E.K is an excited person who wants to mark all the checkboxes on the list of "Things To-Do Before I Die"...*
+- 📫 How to reach me *betulzehra.mavus@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eren-kocyigit-qa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eren-kocyigit-qa" height="30" width="40" /></a>
-<a href="https://instagram.com/erenkocyigitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erenkocyigitt" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/betul-kocyigit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="betul*kocyigit" height="30" width="40" /></a>
+<a href="https://instagram.com/zbkocyigit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zbkocyigit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
